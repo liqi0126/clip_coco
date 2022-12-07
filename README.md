@@ -4,6 +4,8 @@
 
 1. clone [cocoapi](https://github.com/cocodataset/cocoapi), goto `PythonAPI` and run `make`
 2. follow [clip](https://github.com/openai/CLIP) to install clip
+3. download and unzip [features.tar.gz](https://drive.google.com/file/d/1v7sNMuzEUhiFfiOX4cGRNfNrWLP-fC9E/view?usp=share_link) (or generate by code)
+
 
 ## Usage
 
