@@ -7,7 +7,7 @@
 * Yijia Xiao 
 * Linqiao Jiang
 
-2022 Fall
+CS260 UCLA, 2022 Fall
 
 
 
@@ -17,7 +17,7 @@ Step 1. clone [cocoapi](https://github.com/cocodataset/cocoapi), goto `PythonAPI
 
 Step 2. follow [clip](https://github.com/openai/CLIP) to install clip
 
-Step 3A. download and unzip [features.tar.gz](https://drive.google.com/file/d/1v7sNMuzEUhiFfiOX4cGRNfNrWLP-fC9E/view?usp=share_link) (or generate by code, see Step 3B)
+Step 3A. download and unzip [features.tar.gz](https://drive.google.com/file/d/1v7sNMuzEUhiFfiOX4cGRNfNrWLP-fC9E/view?usp=share_link) (or generate by code, see Step 3B) and unzip the features to `features` folder.
 
 Step 3B. run `python clip_coco.py` to export coco dataset to json {str(object id): clip_feature}
 
