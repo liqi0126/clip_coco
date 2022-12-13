@@ -1,0 +1,1 @@
+This folder is used to place MS-COCO dataset train17 and val17.

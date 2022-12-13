@@ -1,0 +1,1 @@
+This folder is used to place pre-generated features extracted by CLIP.
